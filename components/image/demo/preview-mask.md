@@ -46,6 +46,6 @@ ReactDOM.render(<ImageDemo />, mountNode);
   opacity: 1;
 }
 .customize-mask .anticon {
-  font-size: 32px;
+  font-size: 35px;
 }
 ```
